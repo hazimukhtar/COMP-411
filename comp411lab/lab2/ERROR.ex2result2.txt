@@ -1,0 +1,3 @@
+Sum is -194.5700					      |	Sum is  -194.5700
+Mean is -38.9140					      |	Mean is  -38.9140
+Product is -812.0000					      |	Product is  -812.0000

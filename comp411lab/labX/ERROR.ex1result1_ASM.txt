@@ -1,0 +1,15 @@
+1,10c1,3
+< 15
+< 21
+< 35
+< 49
+< 77
+< 83
+< 86
+< 86
+< 93
+< 93
+---
+> Error in /afs/cs.unc.edu/home/hazimukh/comp411lab/labX/ex1.asm line 184 column 2: "sw": Too few or incorrectly formatted operands. Expected: sw $t1,-100($t2)
+> 
+> Processing terminated due to errors.

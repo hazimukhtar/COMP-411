@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+
+    typedef struct {
+      char Name[20];
+      int ID;
+    } record;
+
+    record data[50];

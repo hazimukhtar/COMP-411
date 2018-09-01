@@ -1,0 +1,5 @@
+Non-prime, divisible by 2				      |	Non-prime, divisible by  2
+Non-prime, divisible by 2				      |	Non-prime, divisible by  2
+Non-prime, divisible by 2				      |	Non-prime, divisible by  2
+Non-prime, divisible by 3				      |	Non-prime, divisible by  3
+Non-prime, divisible by 2				      |	Non-prime, divisible by  2

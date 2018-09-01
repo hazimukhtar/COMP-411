@@ -1,0 +1,6 @@
+Non-prime, divisible by 3				      |	Non-prime, divisible by  3
+Non-prime, divisible by 3				      |	Non-prime, divisible by  3
+Non-prime, divisible by 3				      |	Non-prime, divisible by  3
+Non-prime, divisible by 7				      |	Non-prime, divisible by  7
+Non-prime, divisible by 7				      |	Non-prime, divisible by  7
+Non-prime, divisible by 7				      |	Non-prime, divisible by  7
